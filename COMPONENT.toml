@@ -1,0 +1,5 @@
+[component]
+name = "SigmaOS-draw2"
+description = "Vector drawing app alternate component"
+version = "0.1.0"
+tier = 2
